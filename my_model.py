@@ -5,3 +5,5 @@ def my_model(x):
 
 shoe_size = 13
 print("A person with shoe size %i is probably around %f metres tall"%(shoe_size, my_model(shoe_size)))
+
+print("Also, let's make some arbitrary changes now on the server side.")
