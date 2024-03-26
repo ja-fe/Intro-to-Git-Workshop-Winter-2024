@@ -1,6 +1,6 @@
 def my_model(x):
-  m = 0.03
-  b = 1.4
+  m = 0.031
+  b = 1.42
   return m*x+b
 
 shoe_size = 13
